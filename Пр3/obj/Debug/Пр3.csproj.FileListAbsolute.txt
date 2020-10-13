@@ -1,0 +1,10 @@
+C:\Users\solov\source\repos\Пр3\Пр3\bin\Debug\Пр3.exe.config
+C:\Users\solov\source\repos\Пр3\Пр3\bin\Debug\Пр3.exe
+C:\Users\solov\source\repos\Пр3\Пр3\bin\Debug\Пр3.pdb
+C:\Users\solov\source\repos\Пр3\Пр3\bin\Debug\NetClass.dll
+C:\Users\solov\source\repos\Пр3\Пр3\bin\Debug\NetClass.pdb
+C:\Users\solov\source\repos\Пр3\Пр3\obj\Debug\Пр3.csprojAssemblyReference.cache
+C:\Users\solov\source\repos\Пр3\Пр3\obj\Debug\Пр3.csproj.CoreCompileInputs.cache
+C:\Users\solov\source\repos\Пр3\Пр3\obj\Debug\Пр3.csproj.CopyComplete
+C:\Users\solov\source\repos\Пр3\Пр3\obj\Debug\Пр3.exe
+C:\Users\solov\source\repos\Пр3\Пр3\obj\Debug\Пр3.pdb
